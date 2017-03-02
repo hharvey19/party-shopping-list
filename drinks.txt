@@ -1,0 +1,16 @@
+<!DOCTYPE html> 
+	<head>
+		<header> DRINKS LIST 
+		</header>
+	<ul>
+		<li> Beer </li>
+		<li> White wine </li>
+		<li> Red wine </li>
+		<li> Vodka </li>
+		<li> Soda Water & Tonic Water </li>
+		<li> Lemonade </li>
+		<li> Coke & Diet Coke </li>
+	</ul>
+<p> Additional items: Lemon, Lime, Ice, Straws
+</p>
+	</head>

@@ -1,0 +1,14 @@
+<DOCTYPE! html>
+	<head>
+		<header> FOOD LIST 
+		</header>
+	<ul>
+		<li> Crisps </li> 
+		<li> Crackers </li>
+		<li> Assorted Dips </li>
+		<li> Roasted Peanuts </li>
+		<li> Cheeseboard & Grapes </li>
+	</ul>
+	<p> Additional Items: Paper plates, napkins, bowls, cocktail sticks
+	</p>
+	</head>
